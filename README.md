@@ -58,5 +58,7 @@ print("--------------------------------------------------------------")
 
 ## Output :
 
+![image](https://github.com/kishore-2506/Muttiple-capacity-with-infinite-capacity/assets/165657398/09c0080a-4235-42b3-8c83-51f5b92936f5)
+
 ## Result : 
 
